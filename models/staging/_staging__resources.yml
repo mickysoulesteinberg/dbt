@@ -4,3 +4,8 @@ sources:
   - name: names
     tables:
       - name: state_names
+
+  - name: ssa_names
+    tables:
+      - name: name_popularity_by_state
+      - name: us_name_births_by_year
